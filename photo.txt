@@ -1,0 +1,20 @@
+PHOTO PLACEHOLDER
+================
+
+This file is a placeholder indicating where your professional photo should go.
+
+To add your photo:
+
+1. Take a professional headshot or portrait photo
+2. Resize/crop it to 500x500 pixels (square format)
+3. Save as "photo.jpg" in this directory (replace this text file)
+4. Refresh your browser to see the change
+
+Recommended specifications:
+- Format: JPG
+- Size: 500x500 pixels
+- File size: 50-100 KB
+- Quality: Clear, professional headshot with good lighting
+- Background: Plain or neutral
+
+The website will automatically display it as a circular image in the header.
